@@ -15,3 +15,4 @@ tests/      # Test results and analysis
 results/    # Stability and performance data
 HMI/        # HMI design and implementation
 
+
