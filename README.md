@@ -8,7 +8,7 @@ Mechanical Design: Pendulum length (40–50 cm) and mass (50–100 g), built wit
 Control: Arduino-based controller using PID and other control strategies.
 Sensors and Actuators: ELEGOO kit components for motion tracking and stabilization.
 
-### Repository Structure
+### Repository Structure (folders)
 ```plaintext
 src/        # Source code (Arduino programs, control algorithms)
 cad/        # CAD designs for mechanical components
@@ -16,4 +16,5 @@ docs/       # Design documentation and schematics
 tests/      # Test results and analysis
 results/    # Stability and performance data
 HMI/        # HMI design and implementation
+mbse/       # MBSE SysML Diagrams
 
