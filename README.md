@@ -15,6 +15,6 @@ cad/        # CAD designs for mechanical components
 docs/       # Design documentation and schematics
 tests/      # Test results and analysis
 results/    # Stability and performance data
-HMI/        # HMI design and implementation
+hmi/        # HMI design and implementation
 mbse/       # MBSE SysML Diagrams
 
